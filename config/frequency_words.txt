@@ -1,5 +1,24 @@
-胖东来
-于东来
+科技
+
+langchain
+autogen
+rag
+RAG
+Deepreserach
+agent
+agenticRAG
+KAG
+GraphRAG
+stf
+STF
+知识图谱
+
+机器学习
+深度学习
+卷积神经网络
+CNN
+蒸馏模型
+微调模型
 
 DeepSeek
 梁文锋
@@ -9,41 +28,11 @@ DeepSeek
 HarmonyOS
 任正非
 
-比亚迪
-王传福
-
-大疆
-DJI
+小米
+雷军
 
 宇树
 王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
 
 字节
 bytedance
@@ -54,6 +43,9 @@ bytedance
 
 微软
 Microsoft
+
+芯片
+显卡
 
 英伟达
 NVIDIA
@@ -68,10 +60,12 @@ deepmind
 
 chatgpt
 openai
+gemini
 sora
-
 claude
 Anthropic
+豆包
+千问
 
 iphone
 ipad
@@ -81,33 +75,18 @@ ios
 ai
 !gai
 人工智能
-
 自动驾驶
-
+辅助驾驶
 机器人
 
-国产
 中国
-
 美国
 日本
 韩国
+俄罗斯
+乌克兰
 
-芯片
-光刻机
-
-科技
-
-核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
+明星
+张子枫
+张婧仪
+易烊千玺
